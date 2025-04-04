@@ -17,11 +17,11 @@ You need to have a userscript manager installed:
 2. Copy the script contents to the clipboard.
 3. Open your userscript manager.
 4. Create a new script.
-5. **IMPORTANT**: Delete ALL default script content in the script editor.
+5. **IMPORTANT**: Delete __ALL__ default script content in the script editor.
 5. Paste the contents of [bls_2.2.js](https://raw.githubusercontent.com/pedicino/RememberBrickLinkSettings/main/bls_2.2.js) into the script editor.
-6. Save the script (CTRL+S).
+6. Save the script (Ctrl+S).
 ## Known Bugs
-⚠️ The script may not work on Chrome-based browsers using **Tampermonkey** (as opposed to Violentmonkey/Greasemonkey).
+⚠️ The script may not work on Chrome-based browsers using __Tampermonkey__ (as opposed to Violentmonkey/Greasemonkey).
 ## Usage
 1. Visit [BrickLink](https://www.bricklink.com/)
 2. Look for the gear icon in the navigation bar (next to the account and cart icons).

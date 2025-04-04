@@ -10,27 +10,22 @@ A userscript that adds a settings wheel to BrickLink, allowing your catalog pref
 - **US Defaults**: Sets $USD and US shipping/location as defaults!
 
 ## Installation
-This script can be installed on various browsers using userscript managers like TamperMonkey or GreaseMonkey.
+This script can be installed on various browsers using userscript managers like ViolentMonkey, GreaseMonkey, or TamperMonkey.
 
 ### Prerequisites
 You need to have one of these userscript managers installed:
-- **Chrome/Edge**: [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- **Firefox**: [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+- **Chrome/Edge**: [ViolentMonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) or [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- **Firefox**: [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 - **Safari**: [Tampermonkey](https://www.tampermonkey.net/)
 - **Opera**: [Tampermonkey](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
-### Installation Methods
-#### Method 1: Direct Install
-1. Click the installation link: [Install RememberBrickLinkSettings](https://github.com/pedicino/RememberBrickLinkSettings/raw/main/bls_2.2.js)
-2. Your userscript manager should detect the script automatically.
-3. Click "Install" in the prompt window.
-
-#### Method 2: Manual Install
-1. Open your userscript manager dashboard (e.g., click on the Tampermonkey icon and select "Dashboard").
-2. Click the "+" tab or "Create a new script" button.
-3. Copy the entire script content from [bls_2.2.js](https://github.com/pedicino/RememberBrickLinkSettings/blob/main/bls_2.2.js).
-4. Paste it into the editor.
-5. Save the script (Ctrl+S or File > Save).
+### Installation
+#### Direct Install
+1. Open the raw script file: [bls_2.2.js](https://raw.githubusercontent.com/pedicino/RememberBrickLinkSettings/main/bls_2.2.js)
+2. Copy the entire script content.
+3. Open your userscript manager.
+4. Create a new script and paste the copied content.
+5. Save the script.
 
 ## Usage
 1. Visit [BrickLink](https://www.bricklink.com/)
@@ -60,9 +55,9 @@ Your settings will be remembered the next time you visit BrickLink, even after c
 ## Browser Compatibility
 - ✅ Chrome (tested on v100+)
 - ✅ Firefox (tested on v90+)
-- ✅ Edge (tested on v90+)
-- ✅ Safari (tested on v15+)
-- ✅ Opera (tested on recent versions)
+- ❓ Edge (untested)
+- ❓ Safari (untested)
+- ❓ Opera (untested)
 
 ## Contributing
 Contributions are welcome! Feel free to submit a PR.

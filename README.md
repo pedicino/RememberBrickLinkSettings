@@ -19,7 +19,6 @@ You need to have one of these userscript managers installed:
 - **Safari**: [Tampermonkey](https://www.tampermonkey.net/)
 - **Opera**: [Tampermonkey](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
-### Installation
 #### Direct Install
 1. Open the raw script file: [bls_2.2.js](https://raw.githubusercontent.com/pedicino/RememberBrickLinkSettings/main/bls_2.2.js)
 2. Copy the entire script content.
